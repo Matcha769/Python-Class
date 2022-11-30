@@ -1,4 +1,5 @@
 # L1 Variables (變數)
+這邊有共筆版本的<font size=3>[Hackmd](https://hackmd.io/@MatchaCode/Variables)</font>
 
 ## • Definition (定義)
 
