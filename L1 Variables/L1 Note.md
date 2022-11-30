@@ -134,7 +134,7 @@ _dollars = 1000
       ```
 <hr>
 
-## • Single comments (單行註解)
+## • Single Line comments (單行註解)
 如果我想要在程式裡面放上說明該怎麼做?
 
 在Python中可以用<font color='red'>**#(井字號)**</font>來代表單行註解，具體示範如下。
