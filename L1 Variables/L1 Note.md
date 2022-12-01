@@ -1,6 +1,24 @@
 # L1 Variables (變數)
-這邊有共筆版本的<font size=3>[Hackmd](https://hackmd.io/@MatchaCode/Variables)</font>
+###### tags: `Python`
 
+## 目錄
+<a href=#•-Definition-(定義)>• Definition (定義)</a>
+<br>
+<a href=#•-Variables-Assignment-(變數指派)>• Variables Assignment (變數指派)</a>
+<br>
+<a href=#•-Multiple-Assignment-(多重指派)>• Multiple Assignment (多重指派)</a>
+<br>
+<a href=#•-Deleting-Variables-(刪除變數)>• Deleting Variables (刪除變數)</a>
+<br>
+<a href=#•-Naming-Rules-(命名規則)>• Naming Rules (命名規則)</a>
+<br>
+<a href=#•-Keywords-(關鍵字)>• Keywords (關鍵字)</a>
+<br>
+<a href=#•-Standard-Naming-Conventions-(標準命名規則)>• Standard Naming Conventions (標準命名規則)</a>
+<br>
+<a href=#•-Single-Line-comments-(單行註解)>• Single Line comments (單行註解)</a>
+<br>
+<a href=#•-Multi-Line-comments-(多行註解)>• Multi Line comments (多行註解)</a>
 ## • Definition (定義)
 
 什麼是變數呢?
@@ -8,7 +26,7 @@
 假如我們今天希望電腦可以幫我們存取某個值，它可以是一段文字或著是一個數值，而這些幫我們儲存<font color='red'>**值**</font>的東西我們就稱為<font color='red'>**變數**</font>。
 
 所以我們可以認為<br>
-><font color='aqua'>變數是一個可以儲存資料(值)的容器，而我們可以透過變數去改變它裝載的值</font>
+><font color='blue'>變數是一個可以儲存資料(值)的容器，而我們可以透過變數去改變它裝載的值</font>
 <hr>
 
 ## • Variables Assignment (變數指派)
@@ -30,7 +48,7 @@ height = 183.5
 在第三行可以看到我們將變數的名稱命名為<font color='red'>**height**</font>，而指派給他的值是一個數值<font color='red'>**183.5**</font>。
 
 因此我們可以看出來變數指派的方式為<br>
-><font color='aqua'>變數名稱 = 值</font>
+><font color='blue'>變數名稱 = 值</font>
 <hr>
 
 ## • Multiple Assignment (多重指派)
@@ -44,7 +62,7 @@ age, name, height = 18, "matcha", 183.5
 在上述用法中，我們同時指派了age, name, height為 = 符號右方相對應的值。
 
 所以多重指派的用法為<br>
-><font color='aqua'>變數一, 變數二, 變數三 = 變數一的值, 變數二的值, 變數三的值</font>
+><font color='blue'>變數一, 變數二, 變數三 = 變數一的值, 變數二的值, 變數三的值</font>
 <hr>
 
 ## • Deleting Variables (刪除變數)
@@ -58,7 +76,7 @@ del age
 如此一來，我們就無法再使用age這個變數了。
 
 所以刪除變數的用法為<br>
-><font color='aqua'>del 變數名稱</font>
+><font color='blue'>del 變數名稱</font>
 <hr>
 
 ## • Naming Rules (命名規則)
@@ -85,8 +103,8 @@ _dollars = 1000
 以上三行命名皆符合規則，是正確的命名方式。
 
 因此我們可以知道變數命名的規則有幾個要點<br>
-<font color='aqua'>
-|No   |Rules                         | 
+<font color='blue'>
+|No.   |Rules                         | 
 |-----|--------                      |
 |1    |變數名稱只能有字母、數字及下底線 |
 |2    |變數名稱必須由字母或下底線開頭   |
@@ -99,7 +117,7 @@ _dollars = 1000
 所以每個單字都可以用來命名變數嗎?
 
 在Python中，有些特殊詞彙是有特殊意義的，我們不能使用這些單詞來命名變數，詳細如下。
-<font color='aqua'>
+<font color='blue'>
 |Line1 |Line2 |Line3 |Line4 |Line5 |Line6 |
 |------|------|------|------|------|------|
 |False |None  |True  |and   |as    |assert|
@@ -145,7 +163,7 @@ age = 18
 name = "matcha" # You can also comment like this
 ```
 由此我們可以看出<br>
-><font color="aqua">在 # 之後那一行的文字都會被當成註解，不會被程式執行。</font>
+><font color="blue">在 # 之後那一行的文字都會被當成註解，不會被程式執行。</font>
 <hr>
 
 ## • Multi Line comments (多行註解)
@@ -165,10 +183,12 @@ give the same results in Python.
 """
 ```
 由此我們可以看出<br>
-><font color="aqua">在第一個"""到第二個"""之間的文字都會被當成註解，不會被程式執行。</font>
+><font color="blue">在第一個"""到第二個"""之間的文字都會被當成註解，不會被程式執行。</font>
 <hr>
 
 ## • 希望這些筆記可以幫到你 •
 如果有興趣了解更多歡迎追蹤我的<br>
 <font size=3>[Intagram](https://www.instagram.com/matcha_code/)</font><br>
 <font size=3>[Youtube](https://www.youtube.com/@matchacode)</font>
+<br>
+<font size=3>[Github](https://github.com/OG-Matcha/Python-Class)</font>
