@@ -1,6 +1,6 @@
 # L2 Primitive types (原始型態)
 ###### tags: `Python`
-
+這邊有共筆版本的[Hackmd](https://hackmd.io/@MatchaCode/Primitive-types)
 ## 目錄
 <a href=#•-Definition-(定義)>• Definition (定義)</a>
 <br>
