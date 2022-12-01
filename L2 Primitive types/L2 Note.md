@@ -199,3 +199,5 @@ type(text) # <class 'str'>
 <font size=3>[Youtube](https://www.youtube.com/@matchacode)</font>
 <br>
 <font size=3>[Github](https://github.com/OG-Matcha/Python-Class)</font>
+
+<a href="https://hackmd.io/@MatchaCode/Variables" role="button" style="display:block; text-align:left;"> 上一篇: L1 Variables (變數)</a>
