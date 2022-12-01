@@ -1,5 +1,6 @@
 # L1 Variables (變數)
 ###### tags: `Python`
+這邊有共筆版本的[Hackmd](https://hackmd.io/@MatchaCode/Variables)
 
 ## 目錄
 <a href=#•-Definition-(定義)>• Definition (定義)</a>
