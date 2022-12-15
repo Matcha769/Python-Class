@@ -1,13 +1,19 @@
 # L2 Primitive types (原始型態)
 ###### tags: `Python`
-
+這邊有共筆版本的[Hackmd](https://hackmd.io/@MatchaCode/Primitive-types)
 ## 目錄
 <a href=#•-Definition-(定義)>• Definition (定義)</a>
+<br>
 <a href=#•-Numeric-Types-(數值型態)>• Numeric Types (數值型態)</a>
+<br>
 &emsp;<a href=#•-Integer-(整數)>• Integer (整數)</a>
+<br>
 &emsp;<a href=#•-Floating-Point-(浮點數)>• Floating Point (浮點數)</a>
+<br>
 &emsp;<a href=#•-Boolean-(布林值)>• Boolean (布林值)</a>
+<br>
 <a href=#•-Text-Sequence-Types-(文字序列型態)>• Text Sequence Types (文字序列型態)</a>
+<br>
 &emsp;<a href=#•-String-(字串)>• String (字串)</a>
 ## • Definition (定義)
 
@@ -187,7 +193,15 @@ type(text) # <class 'str'>
 <hr>
 
 ## • 希望這些筆記可以幫到你 •
-如果有興趣了解更多歡迎追蹤我的
+如果有興趣了解更多歡迎追蹤我的<br>
 <font size=3>[Intagram](https://www.instagram.com/matcha_code/)</font>
+<br>
 <font size=3>[Youtube](https://www.youtube.com/@matchacode)</font>
+<br>
 <font size=3>[Github](https://github.com/OG-Matcha/Python-Class)</font>
+
+<div style="display: flex; justify-content: space-around">
+<a href="https://hackmd.io/@MatchaCode/Variables" role="button"> 上一篇: L1 Variables (變數)</a>
+
+<a href="https://hackmd.io/@MatchaCode/Type-casting" role="button"> 下一篇: L3 Type casting (型態轉換)</a>
+</div>
