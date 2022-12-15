@@ -3,15 +3,15 @@
 這邊有共筆版本的[Hackmd](https://hackmd.io/@MatchaCode/Type-casting)
 
 ## 目錄
-<a href=#•-Definition-(定義)>• Definition (定義)</a>
-<a href=#•-Implicit-Type-Conversion-(隱式轉換)>• Implicit Type Conversion (隱式轉換)</a>
-&emsp;<a href=#•-Boolean-V.S-Integer>• Boolean V.S Integer</a>
-&emsp;<a href=#•-Integer-V.S-Floating-Point>• Integer V.S Floating-Point</a>
-<a href=#•-Explicit-Type-Conversion-(顯式轉換)>• Explicit Type Conversion (顯式轉換)</a>
-&emsp;<a href=#•-int()-(整數)>• int() (整數)</a>
-&emsp;<a href=#•-float()-(浮點數)>• float() (浮點數)</a>
-&emsp;<a href=#•-bool()-(布林值)>• bool() (布林值)</a>
-&emsp;<a href=#•-str()-(字串)>• str() (字串)</a>
+<a href=#•-Definition-(定義)>• Definition (定義)</a><br>
+<a href=#•-Implicit-Type-Conversion-(隱式轉換)>• Implicit Type Conversion (隱式轉換)</a><br>
+&emsp;<a href=#•-Boolean-V.S-Integer>• Boolean V.S Integer</a><br>
+&emsp;<a href=#•-Integer-V.S-Floating-Point>• Integer V.S Floating-Point</a><br>
+<a href=#•-Explicit-Type-Conversion-(顯式轉換)>• Explicit Type Conversion (顯式轉換)</a><br>
+&emsp;<a href=#•-int()-(整數)>• int() (整數)</a><br>
+&emsp;<a href=#•-float()-(浮點數)>• float() (浮點數)</a><br>
+&emsp;<a href=#•-bool()-(布林值)>• bool() (布林值)</a><br>
+&emsp;<a href=#•-str()-(字串)>• str() (字串)</a><br>
 ## • Definition (定義)
 
 什麼是型態轉換呢?
@@ -239,10 +239,10 @@ str3 = 10 + " days" # TypeError
 <hr>
 
 ## • 希望這些筆記可以幫到你 •
-如果有興趣了解更多歡迎追蹤我的
-<font size=3>[Intagram](https://www.instagram.com/matcha_code/)</font>
-<font size=3>[Youtube](https://www.youtube.com/@matchacode)</font>
-<font size=3>[Github](https://github.com/OG-Matcha/Python-Class)</font>
+如果有興趣了解更多歡迎追蹤我的<br>
+<font size=3>[Intagram](https://www.instagram.com/matcha_code/)</font><br>
+<font size=3>[Youtube](https://www.youtube.com/@matchacode)</font><br>
+<font size=3>[Github](https://github.com/OG-Matcha/Python-Class)</font><br>
 
 
 
