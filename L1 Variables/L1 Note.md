@@ -193,3 +193,6 @@ give the same results in Python.
 <font size=3>[Youtube](https://www.youtube.com/@matchacode)</font>
 <br>
 <font size=3>[Github](https://github.com/OG-Matcha/Python-Class)</font>
+<br>
+
+<a href="https://hackmd.io/@MatchaCode/Primitive-types" role="button" style="display:block; text-align:right;"> 下一篇: L2 Primitive types (原始型態)</a>
