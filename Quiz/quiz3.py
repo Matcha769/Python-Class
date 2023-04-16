@@ -1,5 +1,7 @@
-money = int(input("Please enter the deposit amount: "))
-rate = float(input("Please enter the annual rate of interest: "))
-years = int(input("Please enter the duration: "))
-print(f"{money:,} dollars, annual rate of interest is {rate:.2f}% and {years:3} years")
-print(f"The accumulated amount equal: {money + money * rate / 100 * years:09,} dollars")
+str1 = "Matcha\n"
+str2 = "\bcode"
+str3 = "Hell\ro world"
+
+str4 = "Matcha\n\bcodeHell\ro world"
+
+print(str1 + str2 + str3)

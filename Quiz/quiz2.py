@@ -1,3 +1,5 @@
-x = float(input("Enter value for x: "))
-y = 1./(x + 1./(x + 1./(x + 1./x)))
-print("y =", y)
+num1 = int(True)
+num2 = float(False)
+num3 = 5 + 4
+
+print(num1 + num2 + num3)
